@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 body {
-  background-color: #22313f;
+  background-color: #008080;
   font-family: Montserrat;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 .download-button-text {
-  background: #22313f;
+  background: #008080;
   color: white;
 }
 
@@ -187,7 +187,7 @@ h1 {
 }
 
 a {
-  color: #22313f;
+  color: #008080;
 }
 
 hr {
@@ -263,7 +263,7 @@ hr {
     display: inline;
     text-align: center;
     flex: auto;
-    background: #22313f;
+    background: #008080;
     color: white !important;
     padding-top: 6px;
     padding-bottom: 6px;
