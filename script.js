@@ -34,4 +34,19 @@ $(document).ready(function(){
             scrollTop: $("#contact").offset().top
         }, 1000);
     });
+    $('.con1').waypoint(function(direction){
+        $('.con1').addClass('animated fadeInDown fast');
+    },{
+        offset:"200px"
+    });
+
+    $('.con2').waypoint(function(direction){
+        $('.con2').addClass('animated fadeInDown faster');
+    },{
+        offset:"500px"
+    });
+    
+    
+    
+
 });

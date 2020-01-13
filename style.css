@@ -349,3 +349,21 @@ hr {
 .site-credits:hover {
   opacity: 1;
 }
+
+.con1 {
+  opacity:0;
+  
+}
+.con1 .animated {
+  opacity:1;
+  
+  
+}
+.con2 {
+  opacity:0;
+  
+}
+.con2 .animated {
+  opacity:1;
+  
+}
