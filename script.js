@@ -9,6 +9,11 @@ $(document).ready(function(){
             scrollTop: $("#education").offset().top
         }, 1000);
     });
+    $("#navcertifications").click(function() {
+        $('html, body').animate({
+            scrollTop: $("#certifications").offset().top
+        }, 1000);
+    });
     $("#navprojects").click(function() {
         $('html, body').animate({
             scrollTop: $("#projects").offset().top
